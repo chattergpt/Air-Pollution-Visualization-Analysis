@@ -1,2 +1,2 @@
 # Air-Pollution-Visualization-Analysis
-Test project to analyze air pollution data and use pandas, numpy and matplotlib.
+Sample project to analyze air pollution data and test pandas, numpy and matplotlib.
